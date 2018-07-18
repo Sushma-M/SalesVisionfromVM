@@ -56,6 +56,17 @@
     "dataSet" : [ ],
     "pageTransitions" : "none"
   },
+  "goToPage_testpage333" : {
+    "_id" : "wm-goToPage_testpage333-wm.NavigationVariable-1531903952648",
+    "name" : "goToPage_testpage333",
+    "owner" : "App",
+    "category" : "wm.NavigationVariable",
+    "dataBinding" : [ ],
+    "operation" : "gotoPage",
+    "pageName" : "testpage333",
+    "dataSet" : [ ],
+    "pageTransitions" : "none"
+  },
   "loggedInUser" : {
     "_id" : "wm-loggedInUser-wm.Variable-1499148055196",
     "name" : "loggedInUser",
